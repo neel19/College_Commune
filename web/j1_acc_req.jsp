@@ -32,7 +32,7 @@
     %>
     
     <body>
-        <h1 align="center">New Account Request</h1>
+        <h1 align="center">New Account request</h1>
         <div align="center">
             <form name="f1" action="s1_verify_new_acc" method="POST">
                 <table border="0">
