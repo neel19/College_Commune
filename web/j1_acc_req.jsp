@@ -67,7 +67,7 @@
                                 </select></td>
                         </tr>
                         <tr>
-                            <td><input type="submit" value="Home" name="btn_home" onclick="widows.location.href='/j1_home.jsp'" /></td>
+                            <td><input type="submit" value="Home Page" name="btn_home" onclick="widows.location.href='/j1_home.jsp'" /></td>
                             <td align="right"><input type="submit" value="Place Request" /></td>
                            
                         </tr>
